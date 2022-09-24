@@ -14,16 +14,16 @@ if term_rate >= 16:
   print("Grade : A")
   print('Gpa : %.2f \n'%gpa)
 elif term_rate>= 14 and term_rate<= 15.99:
-  print("Grade : B\n")
+  print("Grade : B")
   print('Gpa : %.2f \n'%gpa)
 elif term_rate>= 12 and term_rate<= 13.99:
-  print("Grade : C\n")
+  print("Grade : C")
   print('Gpa : %.2f \n'%gpa)
 elif term_rate>= 10 and term_rate <= 11.99:
-  print("Grade : D\n")
+  print("Grade : D")
   print('Gpa : %.2f \n'%gpa)
 elif term_rate<10:
-  print("Grade : F\n")
+  print("Grade : F")
   print('Gpa : %.2f \n'%gpa)
 
 
